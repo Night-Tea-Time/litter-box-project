@@ -21,5 +21,6 @@ This is a Final Year Project
 		- jupyter notebook of the training
 
 4. the full collected images is too big to send,
-   these will be put in github.
+   these will be put in github. 
+https://github.com/Night-Tea-Time/litter-box-project
 
