@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824598699420",
+    "project_id": "litterbox-monitoring",
+    "storage_bucket": "litterbox-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824598699420:android:a7a220adf97afdc3a7bc59",
+        "android_client_info": {
+          "package_name": "com.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAoKAv6PiTtWLTGw2lEDjSUU6I_z34SUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824598699420:android:6f7ac60be7731a81a7bc59",
+        "android_client_info": {
+          "package_name": "com.example.litter_box_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAoKAv6PiTtWLTGw2lEDjSUU6I_z34SUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
